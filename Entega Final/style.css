@@ -1,0 +1,10 @@
+h1 {background:yellow;color:red;}
+p {border:double;background:yellow;color:blue}
+button {border:0;background:yellow;color:blue}
+h3 {background:transparent;color:red}
+
+.color {
+    background-color: red ;
+    
+}
+
